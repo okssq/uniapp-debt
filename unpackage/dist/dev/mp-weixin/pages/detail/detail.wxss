@@ -1,0 +1,26 @@
+
+.banner.data-v-3e159eb4 {
+		background: linear-gradient(to top right, #39b54a, #8dc63f);
+}
+.nav-title.data-v-3e159eb4 {
+		color: white;
+		font-weight: bold;
+		font-size: 32rpx;
+		width: 100%;
+		align-items: center;
+		justify-content: center;
+		display: flex;
+}
+.je-wrap.data-v-3e159eb4 {
+		display: flex;
+		align-items: flex-end;
+}
+.t-label.data-v-3e159eb4 {
+		color: rgba(244, 244, 244, .75);
+		font-size: 28rpx;
+}
+.t-value.data-v-3e159eb4 {
+		color: #ffffff;
+		font-size: 32rpx;
+		font-weight: bold;
+}
